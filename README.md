@@ -40,5 +40,6 @@
 
 ### Задание 4
 
-<img width="1560" height="908" alt="image" src="https://github.com/user-attachments/assets/17ef1513-4593-4df9-83cf-7e9adf2161a7" />
+<img width="1841" height="898" alt="image" src="https://github.com/user-attachments/assets/45ab12f3-7708-4089-a986-8a277a1f0f6b" />
+
 
