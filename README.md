@@ -33,7 +33,8 @@
 ### Задание 2-3
 
 
-<img width="1841" height="898" alt="image" src="https://github.com/user-attachments/assets/ddfb5ddb-020d-4ceb-ab62-c8b7eb5a6997" />
+<img width="1848" height="979" alt="image" src="https://github.com/user-attachments/assets/767c3474-2cd2-4f0b-9b30-7c6ac5183e57" />
+
 
 
 
